@@ -1,0 +1,70 @@
+{
+  "packages": [
+    {
+      "name": "h8-family",
+      "maintainer": "SHCVN",
+      "websiteURL": "",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "H8 Boards",
+          "architecture": "h8",
+          "version": "1.0.0",
+          "category": "h8 family",
+          "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.0/h8_100-v1.0.0.zip",
+          "archiveFileName": "h8_100-v1.0.0.zip",
+          "checksum": "SHA-256:483549d89e8000a03cb5810f2cc46e167abcbab9899a17950c5614ae92cfcf9c",
+          "size": "123005",
+          "boards": [
+            {
+              "name": "Arty A7"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "h8-family",
+              "version": "v12.02",
+              "name": "gnuh8-elf"
+            },
+            {
+              "packager": "h8-family",
+              "version": "v6.3",
+              "name": "avrdude"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "version": "v12.02",
+          "name": "gnuh8-elf",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.0/GNUH8-ELF-v12.02.zip",
+              "archiveFileName": "GNUH8-ELF-v12.02.zip",
+              "checksum": "SHA-256:2787c7873c987ffa5a1564d52b3083e627a0798162efbad239bd5e0814fb2ee6",
+              "size": "59478841"
+            }
+          ]
+        },
+        {
+          "version": "v6.3",
+          "name": "avrdude",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.0/avrdude-v6.3.zip",
+              "archiveFileName": "avrdude-v6.3.zip",
+              "checksum": "SHA-256:ED40297B38FED65B5B8CC0F2726AA2AF83AE6D86481D614924109CA7C00C7F3D",
+              "size": "285671"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
