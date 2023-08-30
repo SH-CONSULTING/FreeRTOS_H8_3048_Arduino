@@ -12,12 +12,12 @@
         {
           "name": "H8 Boards",
           "architecture": "h8",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "h8 family",
-          "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.0/h8_100-v1.0.0.zip",
-          "archiveFileName": "h8_100-v1.0.0.zip",
-          "checksum": "SHA-256:483549d89e8000a03cb5810f2cc46e167abcbab9899a17950c5614ae92cfcf9c",
-          "size": "123005",
+          "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.1/h8-v1.0.1.zip",
+          "archiveFileName": "h8-v1.0.1.zip",
+          "checksum": "SHA-256:465e0264c087b0a55a22baf58d86e4f036a1048d71d370cc2146a97b1b8f7d95",
+          "size": "123027",
           "boards": [
             {
               "name": "Arty A7"
@@ -44,7 +44,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.0/GNUH8-ELF-v12.02.zip",
+              "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.1/GNUH8-ELF-v12.02.zip",
               "archiveFileName": "GNUH8-ELF-v12.02.zip",
               "checksum": "SHA-256:2787c7873c987ffa5a1564d52b3083e627a0798162efbad239bd5e0814fb2ee6",
               "size": "59478841"
@@ -57,7 +57,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.0/avrdude-v6.3.zip",
+              "url": "https://raw.githubusercontent.com/SH-CONSULTING/FreeRTOS_H8_3048_Arduino/v1.0.1/avrdude-v6.3.zip",
               "archiveFileName": "avrdude-v6.3.zip",
               "checksum": "SHA-256:ED40297B38FED65B5B8CC0F2726AA2AF83AE6D86481D614924109CA7C00C7F3D",
               "size": "285671"
